@@ -1,2 +1,2 @@
 # personal-site-next
-My personal website, re-done using next.js.
+My personal website, redone using next.js.
